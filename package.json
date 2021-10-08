@@ -60,7 +60,7 @@
     "@octokit/rest": "18.11.4",
     "@sinonjs/fake-timers": "7.1.2",
     "@types/chai": "4.2.22",
-    "@types/eslint": "7.28.0",
+    "@types/eslint": "7.28.1",
     "@types/minimist": "1.2.2",
     "@types/fs-extra": "9.0.13",
     "@types/mocha": "8.2.3",
